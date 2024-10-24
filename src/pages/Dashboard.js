@@ -92,7 +92,7 @@ const Dashboard = ({ monthsData }) => {
 	};
 
 	return (
-		<div className='dashboard-container'>
+		<div className='dashboard-container '>
 			<h1>Transactions Dashboard</h1>
 			<div className='controllers-container'>
 				<input
